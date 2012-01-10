@@ -2,10 +2,12 @@
 <pluggable type="plugin">
 	<name>Silencer</name>
 	<license url="http://www.apache.org/licenses/LICENSE-2.0.html">Apache Software License 2.0</license>
-	<author url="http://habariproject.org/">Habari Community</author>
-	<version>0.01</version>
+	<author url="http://habariproject.org/">The Habari Community</author>
+	<version>1.0</version>
 	<url>http://habariproject.org/</url>
 	<description><![CDATA[Disables comments for all newly published posts.]]></description>
 	<copyright>2009</copyright>
+	<guid>fdb7e18c-f883-4456-a55d-b8e5c8c9ffaa</guid>
+	<help><value><![CDATA[Once this is enabled, "Comments Allowed" will be deselected in the settings of all newly published posts and pages.]]></value></help>
 </pluggable>
  
